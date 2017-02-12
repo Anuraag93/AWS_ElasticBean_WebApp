@@ -9,3 +9,5 @@ The project helped me completely understand the configurations required for AWS 
 To run project view instructions here: [AWS Elastic Beanstalk Java](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/java-getstarted.html)
 
 Snapshots: 
+
+![screen shot 2016-11-06 at 12 56 42 pm](https://cloud.githubusercontent.com/assets/14020237/22867054/d92b6c4e-f134-11e6-8e52-26960de70534.png)
